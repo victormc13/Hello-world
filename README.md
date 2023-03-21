@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="icons/banner.jpg" alt="logo" />
   <br/>
 
-  <h3><b>Hello World</b></h3>
+  <h1><b>Hello World</b></h1>
 
 </div>
 
