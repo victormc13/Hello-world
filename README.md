@@ -226,6 +226,8 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add style to the project]**
+- [ ] **[Improve the accessibility of the page]**
+- [ ] **[Add responsive design]**
 <!-- - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]** -->
 
