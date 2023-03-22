@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  height: 8rem;
+  line-height: 8rem;
+  text-align: center;
+  font-size: 80px;
+  color: rgb(0, 159, 233);
+  background-color: rgb(4, 128, 128);
+}
